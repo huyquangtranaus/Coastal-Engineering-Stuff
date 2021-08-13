@@ -2,7 +2,7 @@ function [Hs] = Check_hs_finite_water_depth(u10,x,d)
 % @ Huy Quang Tran
 % This function is used to calculate Hs based on Young and Verhagen (1996)
 % parameterisations.
-
+% https://www.sciencedirect.com/science/article/abs/pii/S0378383996000063
 % Input parameters:
 % u10: wind speed at 10-m height
 % x: length of fetch
